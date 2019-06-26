@@ -16,6 +16,13 @@ So, you can use
     
 to print all lines from "logfile" containing addresses from this subnet.
 
+Compiling:
+
+Sorry, no Makefile yet.
+Just use  "gcc -std=gnu99 grip.c -o grip"
+
+
+
 Synopsis:
 
     grip [OPTIONS] subnet1 [subnet2 ...] [file1 file2 ... ]
