@@ -27,7 +27,9 @@ Description:
 Options:
  
   -h:  Short help 
+  
   -v:  Invert logic, i.e. print only lines that would otherwise not be printed
+  
 
 Author:
 
