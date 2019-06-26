@@ -17,14 +17,18 @@ So, you can use
 to print all lines from "logfile" containing addresses from this subnet.
 
 Synopsis:
+
     grip [OPTIONS] subnet1 [subnet2 ...] [file1 file2 ... ]
     
 Description:
+
     Print lines from files containing IP addresses from subnets. If files are omitted, STDIN will be used.
     
- Options:
+Options:
+ 
   -h:  Short help 
   -v:  Invert logic, i.e. print only lines that would otherwise not be printed
 
 Author:
+
   Written by Bernhard Griener
